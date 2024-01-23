@@ -70,11 +70,11 @@ KEYWORD_LIST = [
 
 # WEBHOOK_URL in feishu bot, Please replace the fake URL and secret with yours
 # WEBHOOK_URL = (
-#     "https://open.feishu.cn/open-apis/bot/v2/hook/2cc640aa-2e6a-44bc-a7d4-99048f44402d"
+#     "https://open.feishu.cn/open-apis/bot/v2/hook/#"
 # )
-# WEBHOOK_SECRET = "T5sydBsunbWbFmcr1DZxrd"
+# WEBHOOK_SECRET = "#"
 
 WEBHOOK_URL = (
-    "https://open.feishu.cn/open-apis/bot/v2/hook/8330ea90-10ce-4cdc-b511-1e9241e42adb"
+    "https://open.feishu.cn/open-apis/bot/v2/hook/#"
 )
-WEBHOOK_SECRET = "Yuxbt97J4SJTrcu8PRZNIb"
+WEBHOOK_SECRET = "#"
